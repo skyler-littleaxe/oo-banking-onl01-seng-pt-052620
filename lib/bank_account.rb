@@ -1,4 +1,4 @@
-  
+  #pair programming with Gage
 class BankAccount
   attr_reader :account, :name
   attr_accessor :balance, :status
